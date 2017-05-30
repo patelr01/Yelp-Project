@@ -1,4 +1,4 @@
 # Yelp-Project
-Models: Linear Regression, Random Forest, Logistic Regression, PCA Analysis /n
-Packages: Pandas, Numpy, Matplotlib /n
+Models: Linear Regression, Random Forest, Logistic Regression, PCA Analysis 
+Packages: Pandas, Numpy, Matplotlib 
 Tools: Apache Spark, Jupyter, Hadoop
